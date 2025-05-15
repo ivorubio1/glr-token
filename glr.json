@@ -1,1 +1,10 @@
-
+{
+  "name": "Glacier",
+  "symbol": "GLR",
+  "description": "GLR is a digital token that symbolizes glacial mass and environmental awareness. Its supply will decrease to reflect real-world glacier loss.",
+  "image": "https://raw.githubusercontent.com/ivorubio1/glr-token/main/glr.png",
+  "decimals": 9,
+  "extensions": {
+    "github": "https://github.com/ivorubio1/glr-token"
+  }
+}
